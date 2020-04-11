@@ -1,0 +1,6 @@
+C:\Users\still\source\repos\SimpleCode\SimpleCode\bin\Debug\SimpleCode.exe.config
+C:\Users\still\source\repos\SimpleCode\SimpleCode\bin\Debug\SimpleCode.exe
+C:\Users\still\source\repos\SimpleCode\SimpleCode\bin\Debug\SimpleCode.pdb
+C:\Users\still\source\repos\SimpleCode\SimpleCode\obj\Debug\SimpleCode.csprojAssemblyReference.cache
+C:\Users\still\source\repos\SimpleCode\SimpleCode\obj\Debug\SimpleCode.exe
+C:\Users\still\source\repos\SimpleCode\SimpleCode\obj\Debug\SimpleCode.pdb
